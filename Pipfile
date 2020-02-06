@@ -11,7 +11,7 @@ scipy = "*"
 sklearn = "*"
 ipykernel = "*"
 keras = "*"
-tensorflow = "*"
+tensorflow = "==1.14.0"
 wandb = "*"
 
 [dev-packages]
